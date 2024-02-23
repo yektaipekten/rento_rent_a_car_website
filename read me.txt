@@ -1,0 +1,20 @@
+The files are in .php extension, so please follow the steps below.
+
+1. Place the extracted folder inside C:\xampp\htdocs\
+2. Open the XAMPP.
+3. Start the Apache and MySQL server.
+4. Please place this URL. http://localhost:8080/rento/home.php   OR http://localhost:8080/rento/
+
+
+-When you register website it goes to login page
+so you can text your email address and password here which you used for register.
+After that you can login successfully.
+
+- In booking part when you click to rent now you need to check to basket. When you open the basket you can see chosen 
+car or cars in basket with their costs.
+
+- In home page if you click to rent now it going to booking page first(cartnew1.php= booking page) and in here if you click
+rent now you can see your chosen car in basket.
+
+
+-SQL folder name is rento_car_rental.sql an it is in rento folder.
